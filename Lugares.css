@@ -1,0 +1,17 @@
+.container div{
+  height: 600px;
+  display: flex;
+  ;
+}
+.container div {
+  width: 600px;
+  height:auto;
+  display: flex;
+  flex-grow:inherit
+}
+.Labelimag{
+  width: 120px;
+  cursor: pointer;
+  float: left;
+
+}
